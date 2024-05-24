@@ -36,6 +36,12 @@ java -cp .;483libs.jar SimGUI [number-of-cities] [rng-seed]
 java -cp .;483libs.jar SimGUI [number-of-cities] [rng-seed] [ms-delay]
 ```
 
+## ***Example***
+
+![example run][example]
+
 ## ***Acknowledgements***
 
 Professor Katherine Russell
+
+[example]: ./pics/output.gif
