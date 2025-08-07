@@ -9,7 +9,7 @@ Java Program that solves the classic NP-hard problem the Traveling Salesman Prob
 Navigate to a directory and run the following command in your terminal
 
 ```sh
-https://github.com/btalastas/traveling_salesman_problem.git
+git clone https://github.com/btalastas/traveling_salesman_problem.git
 ```
 
 Compile and run using the following commands
